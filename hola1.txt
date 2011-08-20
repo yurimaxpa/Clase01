@@ -2,4 +2,7 @@ Archivo de bienvenida en mi repo
 
 primera clase
 primer commit
-eso es todo
+Agregando numevas lineas
+Segundo commit
+
+
